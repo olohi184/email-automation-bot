@@ -1,5 +1,7 @@
 # Email Automation Bot — Python CLI
 
+[![Python Tests](https://github.com/olohi184/email-automation-bot/actions/workflows/python-tests.yml/badge.svg)](https://github.com/olohi184/email-automation-bot/actions/workflows/python-tests.yml)
+
 A secure starter project for **previewing and sending plain-text email reminders** using SMTP. Built as a reusable Python package with a command-line interface and mocked tests.
 
 > **Project status:** This repository previously contained only a one-line README. The current implementation is a new starter application, not a refactor of existing code. It sends individual reminders on demand; recurring scheduling and automatic reminder queues are not yet implemented.
